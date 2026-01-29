@@ -4,3 +4,6 @@
 
 
 Oct submit portfolio to Cofi 2026
+
+Week 7-8: Design our own OC
+Week 10: L2D animation
